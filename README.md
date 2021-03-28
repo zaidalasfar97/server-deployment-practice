@@ -1,3 +1,5 @@
 # server-deployment-practice
 
-# [Heroku](https://zaidalasfar-server-deploy-prod.herokuapp.com/)
+# [Heroku (main)](https://zaidalasfar-server-deploy-prod.herokuapp.com/)
+
+# [Heroku (dev)](https://zaidalasfar-server-deploy-dev.herokuapp.com/) 
